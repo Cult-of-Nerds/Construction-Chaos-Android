@@ -1176,7 +1176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f548818a098042a48aa20ff46bbfc8b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  addPerSecond: 1
+  addPerSecond: 0
 --- !u!65 &835818923
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1484,18 +1484,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 695771509}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1089990186
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1089990180}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5a556db2e1dce44aae6f109e4e40ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1110173227
 PrefabInstance:
   m_ObjectHideFlags: 0
